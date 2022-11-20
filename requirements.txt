@@ -1,9 +1,0 @@
-Flask
-fonttools
-gunicorn
-heroku
-Jinja2
-openai
-openpyxl
-packaging
-pandas
